@@ -1,0 +1,18 @@
+{
+  "name": "vite-plugin-useobserverdom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/vite-plugin-useobserverdom.umd.js",
+  "module": "vite-plugin-useobserverdom.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^4.3.5",
+    "vue": "^3.3.2"
+  }
+}
